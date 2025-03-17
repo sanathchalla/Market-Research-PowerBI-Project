@@ -1,4 +1,4 @@
-##Project Summary
+#Project Summary
 
 This Power BI project focuses on market research for a retail vendor specializing in food and beverage products. The goal was to analyze recent marketing campaigns, customer demographics, and key factors influencing purchases. The project includes three interactive reports:
 
@@ -8,7 +8,7 @@ Buyer Composition Report - Analyzes customer demographics and purchasing behavio
 
 Purchase Drivers Report - Identifies key factors driving campaign success and buyer decisions.
 
-Data Visualization Techniques
+#Data Visualization Techniques:
 
 Bar Charts: Used to compare campaign performance metrics and product sales.
 
@@ -18,7 +18,7 @@ Key Influencer Charts: Highlights important factors impacting purchasing decisio
 
 Filter Tiles: Enable users to interactively explore data across different dimensions.
 
-Key Questions Answered
+#Key Questions Answered:
 
 How are our six recent marketing campaigns performing?
 
@@ -28,7 +28,7 @@ Who are our customers?
 
 What is driving campaign performance and buyer decision-making?
 
-Tools & Methodologies Used
+#Tools & Methodologies Used:
 
 Power BI: Data visualization and dashboard creation.
 
